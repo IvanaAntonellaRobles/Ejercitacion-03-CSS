@@ -1,0 +1,137 @@
+.contain-banderas .argentina {
+    margin: 15px;
+}
+.argentina .celeste {
+    height: 66px;
+    width: 300px;
+    background-color: #7bd4f1;
+    border: 1px black solid;
+}
+.argentina .blanco {
+    height: 66px;
+    width: 300px;
+    background-color: #FFFFFF;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+.argentina .celeste-2 {
+    height: 66px;
+    width: 300px;
+    background-color: #7bd4f1;
+    border: 1px black solid;
+}
+.contain-banderas .mexico {
+    margin: 15px;
+    display: flex;
+      
+}
+.mexico .verde {
+    height: 200px;
+    width: 100px;
+    background-color: rgb(7, 75, 7);
+    border: 1px black solid;
+}
+.mexico .blanco {
+    height: 200px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 1px black solid;
+    border-top: 1px black solid;
+}
+.mexico .rojo {
+    height: 200px;
+    width: 100px;
+    background-color: red;
+    border: 1px black solid;
+}
+.contain-banderas .holanda {
+    margin: 15px;
+    
+}
+.holanda .rojoviejo {
+    height: 66px;
+    width: 300px;
+    background-color: darkred;
+    border: 1px black solid;
+}
+.holanda .blanco {
+    height: 66px;
+    width: 300px;
+    background-color: white;
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+.holanda .azul {
+    height: 66px;
+    width: 300px;
+    background-color: rgb(22, 93, 163);
+    border: 1px black solid;
+}
+.contain-banderas .francia {
+    margin: 15px;
+    display: flex;
+}
+.francia .azul {
+    height: 200px;
+    width: 100px;
+    background-color: rgb(27, 27, 206);
+    border: 1px black solid;
+}
+.francia .blanco {
+    height: 200px;
+    width: 100px;
+    background-color: white;
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}
+.francia .rojo {
+    height: 200px;
+    width: 100px;
+    background-color: rgb(201, 57, 57);
+    border: 1px black solid;
+}
+.contain-banderas .irlanda {
+    margin: 15px;
+    display: flex;
+}
+.irlanda .verde {
+    height: 200px;
+    width: 100px;
+    background-color: rgb(59, 170, 59);
+    border: 1px black solid;
+}
+.irlanda .blanco {
+    height: 200px;
+    width: 100px;
+    background-color: white;
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}
+.irlanda .naranja {
+    height: 200px;
+    width: 100px;
+    background-color: rgb(230, 96, 48);
+    border: 1px black solid;
+}
+.contain-banderas .espania {
+    margin: 15px;
+}
+.espania .rojo {
+    height: 56px;
+    width: 300px;
+    background-color: rgb(167, 14, 14);
+    border: 1px black solid;
+}
+.espania .amarillo {
+    height: 76px;
+    width: 300px;
+    background-color: rgb(230, 167, 52);
+    border-left: 1px black solid;
+    border-right: 1px black solid;
+}
+.espania .rojo-2 {
+    height: 56px;
+    width: 300px;
+    background-color: rgb(167, 14, 14);
+    border: 1px black solid;
+}

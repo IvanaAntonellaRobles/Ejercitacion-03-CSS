@@ -1,0 +1,55 @@
+.barra {
+    width: 500px;
+    height: 30px;
+    background-color: rgb(240, 232, 232);
+    border-radius: 100px;
+    display: flex;
+    margin: 15px;
+    padding: 3px;
+    
+}
+.barra .diez {
+    background-color:rgb(114, 199, 114);
+    border-radius: 100px;
+    width: 62px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.barra .veinticinco {
+    background-color:rgb(114, 199, 114);
+    border-radius: 100px;
+    width: 125px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.barra .cincuenta {
+    background-color:rgb(114, 199, 114);
+    border-radius: 100px;
+    width: 250px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.barra .setentaycinco {
+    background-color:rgb(114, 199, 114);
+    border-radius: 100px;
+    width: 350px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+.barra .noventa {
+    background-color:rgb(101, 173, 101);
+    border-radius: 100px;
+    width: 450px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}

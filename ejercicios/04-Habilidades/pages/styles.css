@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(14, 177, 177);
+}
+.contain-card {
+    background-color: white;
+    height: 300px;
+    width: 350px;
+    margin: 10%;
+    border-radius: 10px;
+    padding: 28px;
+}
+.contain-card .contain-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contain-card .contain-title .title-1 {
+    width: 120px;
+    height: 20px;
+    font-family: 'Franklin Gothic';
+}
+.contain-card .contain-title .title-2 {
+    width: 80px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    font-family: 'Franklin Gothic';
+    font-size: 10px;
+    border: 1px rgba(0, 0, 0, 0.075) solid;
+    color: grey;
+}  
+
+.contain-card .contain-skills .skill-1 {
+    background-color: white;
+    width: 350px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px rgba(0, 0, 0, 0.075) solid;
+    border-left: 4px rgb(238, 86, 132) solid;
+    margin: 15px 0px 5px 0px;
+    
+}
+.contain-card .contain-skills .skill-2 {
+    background-color: white;
+    width: 350px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px rgba(0, 0, 0, 0.075) solid;
+    border-left: 4px rgb(177, 94, 233) solid;
+    margin: 5px 0px 5px 0px;
+}
+.contain-card .contain-skills .skill-3 {
+    background-color: white;
+    width: 350px;
+    height: 70px;
+    border-radius: 5px;
+    border: 1px rgba(0, 0, 0, 0.075) solid;
+    border-left: 4px rgb(241, 119, 48) solid;
+    margin: 5px 0px 5px 0px;
+}
+.contain-card .contain-skills #text {
+    font-family: 'Franklin Gothic';
+    font-size: 13px;
+    margin-left: 10px;
+}
+.contain-card .contain-skills #grey {
+    font-family: 'Franklin Gothic';
+    font-size: 10px;
+    margin-left: 10px;
+    color: grey ;
+}

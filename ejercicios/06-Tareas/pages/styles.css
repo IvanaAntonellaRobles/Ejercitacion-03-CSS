@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(35, 141, 211);
+    margin: 20px;
+}
+.title {
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contain-card {
+    height: 240px;
+    width: 300px;
+    background-color: rgba(235, 233, 233, 0.87);
+    border-radius: 5px;
+    padding: 6px 7px;
+}
+.contain-card .contain-title {
+    height: 25px;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: rgb(7, 7, 7);
+    padding: 7px 3px 0px 0px;
+}
+
+.contain-card .contain-tasks p {
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    height: 45px;
+    font-size: 0.8rem;
+    align-items: center;
+    padding: 0px 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(83, 81, 81);
+    font-weight: bolder;
+}
+.add {
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    font-size: 0.9rem;
+}

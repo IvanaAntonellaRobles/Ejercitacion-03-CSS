@@ -1,0 +1,72 @@
+body {
+    background-color: rgb(231, 231, 229); 
+}
+.contain-card {
+    background-color: #fff;
+    width: 700px;
+    height: 900px;
+    margin: 50px auto;
+    padding: 40px;
+}   
+.contain-card .contain-title {
+    font-family: "Muli", sans-serif;
+    text-align: start;
+    color: #272222;
+    font-size: 22px;
+    padding: 12px 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.contain-date {
+    padding: 0px 30px;
+    margin-bottom: 25px;
+}
+.contain-date .date {
+    margin-left: 20px;
+    color: grey;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+.contain-card .date-selected {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    background-color: #272222;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.contain-description .event {
+    padding: 30px 30px;
+    border-bottom: 1px rgb(231, 231, 229)solid;
+    margin-bottom: 40px;
+}
+.event .canceled {
+    font-family: 'Noto Sans', sans-serif;
+    color: red;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+.event .time {
+    margin-left: 10px;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+    color: grey;
+    font-size: 13px;
+}
+.event .event-title {
+    font-family: "Muli", sans-serif;
+    font-weight: bolder;
+    font-size: 1.6rem;
+    color: #272222de;
+}
+.event .event-description {
+    color: grey;
+    font-family: "Muli", sans-serif;
+}
+.event a {
+    font-family: "Muli", sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+

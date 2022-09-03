@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(226, 226, 226);
+}
+.contain-card {
+    width: 280px;
+    height: 400px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 100px;
+    padding: 40px;
+}
+.contain-card .contain-title i {
+    font-size: 35px;
+    color: rgb(40, 159, 206);
+}
+.contain-card .contain-title {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: rgb(36, 46, 76);
+}
+.contain-card .contain-title p {
+    font-size: 12px;
+}
+.contain-card .contain-information {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+.contain-card .contain-email {
+    width: 17rem;
+    height: 150px;
+    background-color: rgba(226, 226, 226, 0.568);
+    margin: 3%;
+    border-radius: 7px;
+    text-align: center;
+    padding-top: 1px;
+    color: rgb(36, 46, 76);
+}
+.contain-card .contain-email #update {
+    background-color: white;
+    width: 6rem;
+    height: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    color: grey;
+}
+.contain-card .contain-button {
+    margin-top: 2rem;
+    margin-left: 5rem;
+    height: 1.6rem;
+    width: 7rem;
+    background-color: rgb(36, 46, 76);
+    color: white;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    border-radius: 1rem;
+}
